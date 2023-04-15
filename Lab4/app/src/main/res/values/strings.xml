@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="hint_name">Nombre</string>
+    <string name="tittle_text">Rellena la siguiente Informacion</string>
+    <string name="hint_email">Correo electronico</string>
+    <string name="save_btn_text">Guardar</string>
+    <string name="phonenumber_hint">Numero de telefono</string>
+    <string name="confirm_tittle">Confirma tu Informacion</string>
+</resources>
